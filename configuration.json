@@ -1,4 +1,5 @@
 {
+    "only_terminal":true,
     "version" : "1.0",
     "read_only_files" : [
         ".env",
